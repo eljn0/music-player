@@ -1,9 +1,9 @@
-# Music Player
+# <p align="center"> Music Player </p>
 
 - Made with vanilla js
 - responsive design
 
-# How to add song?
+# <p align="center"> How to add song?</p>
 - Download mp3 version of song.
 - Add to Music Folder
 - Then Go to Script.js
